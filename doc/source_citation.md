@@ -72,12 +72,14 @@
 ```
 
 ```bibtex
-@inproceedings{hopkins2019semeval,
-  title={Semeval-2019 task 10: Math question answering},
-  author={Hopkins, Mark and Le Bras, Ronan and Petrescu-Prahova, Cristian and Stanovsky, Gabriel and Hajishirzi, Hannaneh and Koncel-Kedziorski, Rik},
-  booktitle={Proceedings of the 13th International Workshop on Semantic Evaluation},
-  pages={893--899},
-  year={2019}
+@article{koncel2015parsing,
+  title={Parsing algebraic word problems into equations},
+  author={Koncel-Kedziorski, Rik and Hajishirzi, Hannaneh and Sabharwal, Ashish and Etzioni, Oren and Ang, Siena Dumas},
+  journal={Transactions of the Association for Computational Linguistics},
+  volume={3},
+  pages={585--597},
+  year={2015},
+  publisher={MIT Press}
 }
 ```
 
