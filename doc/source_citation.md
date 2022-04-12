@@ -1,4 +1,4 @@
-
+```bibtex
 @inproceedings{dua2019drop,
   title={DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs},
   author={Dua, Dheeru and Wang, Yizhong and Dasigi, Pradeep and Stanovsky, Gabriel and Singh, Sameer and Gardner, Matt},
@@ -6,7 +6,9 @@
   pages={2368--2378},
   year={2019}
 }
+```
 
+```bibtex
 @inproceedings{ravichander2019equate,
   title={EQUATE: A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference},
   author={Ravichander, Abhilasha and Naik, Aakanksha and Rose, Carolyn and Hovy, Eduard},
@@ -14,7 +16,9 @@
   pages={349--361},
   year={2019}
 }
+```
 
+```bibtex
 @inproceedings{tafjord2019quarel,
   title={Quarel: A dataset and models for answering questions about qualitative relationships},
   author={Tafjord, Oyvind and Clark, Peter and Gardner, Matt and Yih, Wen-tau and Sabharwal, Ashish},
@@ -24,3 +28,4 @@
   pages={7063--7071},
   year={2019}
 }
+```
