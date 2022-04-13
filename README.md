@@ -12,7 +12,7 @@ NumGLUE has 8 tasks
 - Task 7: Quantitative NLI
 - Task 8: Arithmetic Word Problems
 
-Download data from `./data/. It contains the train, dev and test split. Note that the provided task types need to be only used for evaluating model performance across various tasks. They can not be used as additional information during model training, since one of the goal in this benchmark is to identify task types directly from data.
+Download data from `./data/.` It contains the train, dev and test split. Note that the provided task types need to be only used for evaluating model performance across various tasks. They can not be used as additional information during model training, since one of the goal in this benchmark is to identify task types directly from data.
 
 Feel free to cite us
 
