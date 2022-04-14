@@ -14,6 +14,11 @@ NumGLUE has 8 tasks
 
 Download data from `./data/.` It contains the train, dev and test split. Note that the provided task types need to be only used for evaluating model performance across various tasks. They should not be used as additional information during model training, since one of the goal in this benchmark is to identify task types directly from data.
 
+## Baseline Model
+We used [numnetplus](https://github.com/llamazing/numnet_plus) as the baseline model in NumGLUE. We use Reading Comprehension as the common format and convert questions of all tasks to the reading comprehension format. 
+
+For more details, please refer to our paper [NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks](https://arxiv.org/abs/2204.05660)
+
 Feel free to cite us
 
 ```bibtex
