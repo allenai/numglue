@@ -22,11 +22,11 @@ For more details, please refer to our paper [NumGLUE: A Suite of Fundamental yet
 Feel free to cite us
 
 ```bibtex
-@article{,
-  title={},
-  author={},
-  journal={},
-  year={}
+@article{mishra2022numglue,
+  title={NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks},
+  author={Mishra, Swaroop and Mitra, Arindam and Varshney, Neeraj and Sachdeva, Bhavdeep and Clark, Peter and Baral, Chitta and Kalyan, Ashwin},
+  journal={ACL},
+  year={2022}
 }
 ```
 If you use the NumGLUE data, please cite the source dataset papers.
